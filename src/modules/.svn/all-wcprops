@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/59/trunk/src/modules
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/55/trunk/src/modules/.svnignore
+END
+classical_lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/58/trunk/src/modules/classical_lib.v
+END
+lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/58/trunk/src/modules/lib.v
+END
+ssr.v
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/58/trunk/src/modules/ssr.v
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/58/trunk/src/modules/Makefile
+END
+withzero.v
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/src/modules/withzero.v
+END
+nati.v
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/58/trunk/src/modules/nati.v
+END
+.glob
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/58/trunk/src/modules/.glob
+END
+galois_sig.old.v
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/src/modules/galois_sig.old.v
+END
+constructive_lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/src/modules/constructive_lib.v
+END
+ring.v
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/58/trunk/src/modules/ring.v
+END
+galois_sig.v
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/59/trunk/src/modules/galois_sig.v
+END
+ring_sig.v
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/src/modules/ring_sig.v
+END

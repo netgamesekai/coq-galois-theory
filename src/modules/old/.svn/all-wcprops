@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/58/trunk/src/modules/old
+END
+poly.v
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/src/modules/old/poly.v
+END
+galois_thm.v
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/src/modules/old/galois_thm.v
+END
+nzring.v
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/58/trunk/src/modules/old/nzring.v
+END
+ring.old.v
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/src/modules/old/ring.old.v
+END
+ring_sig_func.v
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/58/trunk/src/modules/old/ring_sig_func.v
+END
+ring.v
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/src/modules/old/ring.v
+END

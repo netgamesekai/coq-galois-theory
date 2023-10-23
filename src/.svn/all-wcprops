@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/62/trunk/src
+END
+poly2.v
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/62/trunk/src/poly2.v
+END
+poly3.v
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/62/trunk/src/poly3.v
+END
+lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/58/trunk/src/lib.v
+END
+ssr.v
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/31/trunk/src/ssr.v
+END
+nzring.v
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/52/trunk/src/nzring.v
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/58/trunk/src/Makefile
+END
+nati.v
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/58/trunk/src/nati.v
+END
+constructive_lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/src/constructive_lib.v
+END
+ring.v
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/55/trunk/src/ring.v
+END
+poly.v
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/53/trunk/src/poly.v
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/62/trunk/src/.svnignore
+END
+classical_lib.v
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/50/trunk/src/classical_lib.v
+END

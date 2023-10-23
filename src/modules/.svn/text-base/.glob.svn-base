@@ -1,0 +1,1613 @@
+Fssr
+Fwithzero
+R537 Coq.Init.Logic "x = y" type_scope
+R525 Coq.Init.Logic "x = y" type_scope
+R520 withzero Withzero.Nz
+R527 withzero Withzero.Nz
+R636 withzero Withzero.Zero
+R642 withzero Withzero.Zero
+R650 Coq.Init.Datatypes true
+R662 withzero Withzero.Nz
+R668 withzero Withzero.Nz
+R678 eqtype "x '==' y" eq_scope
+R696 Coq.Init.Datatypes false
+R597 withzero Withzero.withzero
+R597 withzero Withzero.withzero
+R732 eqtype reflect_eq
+R743 withzero Withzero.eqwithzero
+R825 eqtype "x '==' y" eq_scope
+R825 eqtype "x '==' y" eq_scope
+R848 eqtype eqP
+R848 eqtype eqP
+R915 eqtype eq_refl
+R915 eqtype eq_refl
+R989 withzero Withzero.eqwithzeroPx
+Fclassical_lib
+R368 Coq.Init.Logic "x = y" type_scope
+R356 Coq.Init.Logic "x = y" type_scope
+R456 Coq.Init.Logic "x = y" type_scope
+R444 Coq.Init.Logic "x = y" type_scope
+R495 classical_lib strong_ext
+R495 classical_lib strong_ext
+R598 Coq.Init.Logic "x = y" type_scope
+R636 classical_lib weak_ext
+R636 classical_lib weak_ext
+R699 Coq.Init.Datatypes bool
+R736 Coq.Logic.ClassicalEpsilon excluded_middle_informative
+R736 Coq.Logic.ClassicalEpsilon excluded_middle_informative
+R777 Coq.Init.Datatypes true
+R777 Coq.Init.Datatypes true
+R790 Coq.Init.Datatypes false
+R790 Coq.Init.Datatypes false
+R840 ssrbool reflect
+R851 classical_lib Pb
+R896 classical_lib Pb
+R896 classical_lib Pb
+R929 classical_lib Pb
+R929 classical_lib Pb
+R948 Coq.Logic.ClassicalEpsilon excluded_middle_informative
+R948 Coq.Logic.ClassicalEpsilon excluded_middle_informative
+R1005 classical_lib Pb
+R1005 classical_lib Pb
+R1022 Coq.Logic.ClassicalEpsilon excluded_middle_informative
+R1022 Coq.Logic.ClassicalEpsilon excluded_middle_informative
+R1102 Coq.Init.Logic "A \/ B" type_scope
+R1105 Coq.Init.Logic "~ x" type_scope
+R1134 classical_lib PbP
+R1134 classical_lib PbP
+R1287 eqtype set
+R1301 Coq.Init.Logic "x <> y" type_scope
+R1328 Coq.Init.Logic "'exists' x , p" type_scope
+R1342 Coq.Bool.Bool "x && y" bool_scope
+R1345 ssrbool "'~~' b" bool_scope
+R1378 Coq.Init.Logic "'exists' x , p" type_scope
+R1392 Coq.Bool.Bool "x && y" bool_scope
+R1395 ssrbool "'~~' b" bool_scope
+R1472 classical_lib PI.neq_set
+R1465 Coq.Init.Logic "x <> y" type_scope
+R1451 eqtype set
+R1451 eqtype set
+R1527 classical_lib Pb
+R1531 Coq.Init.Logic "'exists' x , p" type_scope
+R1545 Coq.Bool.Bool "x && y" bool_scope
+R1548 Coq.Bool.Bool negb
+R1567 classical_lib PbP
+R1527 classical_lib Pb
+R1531 Coq.Init.Logic "'exists' x , p" type_scope
+R1545 Coq.Bool.Bool "x && y" bool_scope
+R1548 Coq.Bool.Bool negb
+R1567 classical_lib PbP
+R1567 classical_lib PbP
+R1598 Coq.Logic.Classical_Pred_Type not_ex_all_not
+R1598 Coq.Logic.Classical_Pred_Type not_ex_all_not
+R1651 Coq.Logic.Classical_Pred_Type not_all_not_ex
+R1651 Coq.Logic.Classical_Pred_Type not_all_not_ex
+R1705 classical_lib weak_ext
+R1705 classical_lib weak_ext
+R1772 ssrbool negP
+R1783 ssrbool negbE2
+R1772 ssrbool negP
+R1783 ssrbool negbE2
+R1805 ssrbool andbT
+R1822 ssrbool negP
+R1840 eqtype eqP
+R1805 ssrbool andbT
+R1822 ssrbool negP
+R1840 eqtype eqP
+R1995 classical_lib Pb
+R2001 Coq.Init.Logic "x = y" type_scope
+R2024 eqtype reflect_eq
+R2035 classical_lib EqType.gen_eq
+R2083 classical_lib EqType.gen_eq
+R2116 classical_lib PbP
+R2083 classical_lib EqType.gen_eq
+R2116 classical_lib PbP
+R2151 classical_lib EqType.gen_eq
+R2151 classical_lib EqType.gen_eq
+R2172 classical_lib PbP
+R2172 classical_lib PbP
+R2242 classical_lib EqType.gen_ref
+R2281 classical_lib type_to_eqType
+R2445 Coq.Init.Logic "x = y" type_scope
+R2430 classical_lib Pb
+R2434 Coq.Init.Logic "~ x" type_scope
+R2438 Coq.Init.Logic "A /\ B" type_scope
+R2447 classical_lib Pb
+R2455 Coq.Init.Logic "A \/ B" type_scope
+R2451 Coq.Init.Logic "~ x" type_scope
+R2458 Coq.Init.Logic "~ x" type_scope
+R2477 ssrbool idP
+R2481 ssrbool idP
+R2491 classical_lib PbP
+R2477 ssrbool idP
+R2481 ssrbool idP
+R2491 classical_lib PbP
+R2491 classical_lib PbP
+R2503 Coq.Logic.Classical_Prop not_and_or
+R2503 Coq.Logic.Classical_Prop not_and_or
+R2531 classical_lib PbP
+R2531 classical_lib PbP
+R2541 Coq.Logic.Classical_Prop or_not_and
+R2541 Coq.Logic.Classical_Prop or_not_and
+R2567 classical_lib PbP
+R2567 classical_lib PbP
+R2608 Coq.Init.Logic "x = y" type_scope
+R2593 classical_lib Pb
+R2597 Coq.Init.Logic "~ x" type_scope
+R2601 Coq.Init.Logic "A \/ B" type_scope
+R2610 classical_lib Pb
+R2618 Coq.Init.Logic "A /\ B" type_scope
+R2614 Coq.Init.Logic "~ x" type_scope
+R2621 Coq.Init.Logic "~ x" type_scope
+R2640 ssrbool idP
+R2644 ssrbool idP
+R2654 classical_lib PbP
+R2640 ssrbool idP
+R2644 ssrbool idP
+R2654 classical_lib PbP
+R2654 classical_lib PbP
+R2666 Coq.Logic.Classical_Prop not_or_and
+R2666 Coq.Logic.Classical_Prop not_or_and
+R2694 classical_lib PbP
+R2694 classical_lib PbP
+R2704 Coq.Logic.Classical_Prop and_not_or
+R2704 Coq.Logic.Classical_Prop and_not_or
+R2730 classical_lib PbP
+R2730 classical_lib PbP
+R2768 Coq.Init.Logic "x = y" type_scope
+R2756 classical_lib Pb
+R2770 classical_lib Pb
+R2778 Coq.Init.Logic "A \/ B" type_scope
+R2774 Coq.Init.Logic "~ x" type_scope
+R2798 ssrbool idP
+R2802 ssrbool idP
+R2812 classical_lib PbP
+R2798 ssrbool idP
+R2802 ssrbool idP
+R2812 classical_lib PbP
+R2812 classical_lib PbP
+R2824 Coq.Logic.Classical_Prop imply_to_or
+R2824 Coq.Logic.Classical_Prop imply_to_or
+R2853 classical_lib PbP
+R2853 classical_lib PbP
+R2863 Coq.Logic.Classical_Prop or_to_imply
+R2863 Coq.Logic.Classical_Prop or_to_imply
+R2890 classical_lib PbP
+R2890 classical_lib PbP
+R2928 Coq.Init.Logic "x = y" type_scope
+R2917 classical_lib Pb
+R2921 Coq.Init.Logic "~ x" type_scope
+R2923 Coq.Init.Logic "~ x" type_scope
+R2930 classical_lib Pb
+R2949 ssrbool idP
+R2953 ssrbool idP
+R2963 classical_lib PbP
+R2949 ssrbool idP
+R2953 ssrbool idP
+R2963 classical_lib PbP
+R2963 classical_lib PbP
+R2975 Coq.Logic.Classical_Prop NNPP
+R2975 Coq.Logic.Classical_Prop NNPP
+R2997 classical_lib PbP
+R2997 classical_lib PbP
+R3021 classical_lib PbP
+R3021 classical_lib PbP
+R3063 Coq.Init.Logic "x = y" type_scope
+R3054 ssrbool "'~~' b" bool_scope
+R3058 classical_lib Pb
+R3067 classical_lib Pb
+R3071 Coq.Init.Logic "~ x" type_scope
+R3091 classical_lib LEM
+R3091 classical_lib LEM
+R3113 classical_lib PbP
+R3113 classical_lib PbP
+R3145 classical_lib Pb
+R3149 Coq.Init.Logic "~ x" type_scope
+R3170 classical_lib PbP
+R3145 classical_lib Pb
+R3149 Coq.Init.Logic "~ x" type_scope
+R3170 classical_lib PbP
+R3184 classical_lib PbP
+R3184 classical_lib PbP
+R3214 classical_lib Pb
+R3235 classical_lib PbP
+R3214 classical_lib Pb
+R3235 classical_lib PbP
+R3436 Coq.Init.Logic "x = y" type_scope
+R3417 classical_lib Pb
+R3421 Coq.Init.Logic "'exists' x , p" type_scope
+R3438 classical_lib Pb
+R3442 Coq.Init.Logic "~ x" type_scope
+R3454 Coq.Init.Logic "~ x" type_scope
+R3475 ssrbool idP
+R3479 ssrbool idP
+R3489 classical_lib PbP
+R3475 ssrbool idP
+R3479 ssrbool idP
+R3489 classical_lib PbP
+R3489 classical_lib PbP
+R3519 classical_lib PbP
+R3519 classical_lib PbP
+R3567 classical_lib PbP
+R3567 classical_lib PbP
+R3582 Coq.Logic.Classical_Pred_Type not_all_not_ex
+R3582 Coq.Logic.Classical_Pred_Type not_all_not_ex
+R3639 Coq.Init.Logic "x = y" type_scope
+R3620 classical_lib Pb
+R3641 classical_lib Pb
+R3645 Coq.Init.Logic "~ x" type_scope
+R3647 Coq.Init.Logic "'exists' x , p" type_scope
+R3657 Coq.Init.Logic "~ x" type_scope
+R3678 ssrbool idP
+R3682 ssrbool idP
+R3692 classical_lib PbP
+R3678 ssrbool idP
+R3682 ssrbool idP
+R3692 classical_lib PbP
+R3692 classical_lib PbP
+R3717 classical_lib PbP
+R3717 classical_lib PbP
+R3788 Coq.Logic.Classical_Pred_Type not_ex_not_all
+R3788 Coq.Logic.Classical_Pred_Type not_ex_not_all
+R3818 classical_lib PbP
+R3818 classical_lib PbP
+Fconstructive_lib
+R490 Coq.Init.Logic "x = y" type_scope
+R479 Coq.Init.Logic "x = y" type_scope
+R630 Coq.Init.Logic "'exists' x , p" type_scope
+R645 Coq.Init.Logic "A /\ B" type_scope
+R651 Coq.Init.Logic "x = y" type_scope
+R584 eqtype set
+R571 eqtype set
+R1077 Coq.Init.Logic "x = y" type_scope
+R1070 eqtype "x '!=' y" eq_scope
+R1073 Coq.Init.Datatypes true
+R1084 eqtype "x '==' y" eq_scope
+R1087 Coq.Init.Datatypes false
+R1156 Coq.Init.Logic "x = y" type_scope
+R1148 eqtype "x '!=' y" eq_scope
+R1151 Coq.Init.Datatypes false
+R1163 eqtype "x '==' y" eq_scope
+R1166 Coq.Init.Datatypes true
+R1231 Coq.Init.Logic "x = y" type_scope
+R1225 Coq.Init.Logic "x = y" type_scope
+R1227 Coq.Init.Datatypes true
+R1291 Coq.Init.Logic "A <-> B" type_scope
+R1283 Coq.Init.Logic "x = y" type_scope
+R1285 Coq.Init.Datatypes false
+R1295 Coq.Init.Logic "~ x" type_scope
+R1349 ssrbool negP
+R1349 ssrbool negP
+R1370 ssrbool negbET
+R1370 ssrbool negbET
+R1423 Coq.Init.Logic "x = y" type_scope
+R1419 eqtype "x '!=' y" eq_scope
+R1430 eqtype "x '!=' y" eq_scope
+R1474 ssrbool idP
+R1478 ssrbool idP
+R1474 ssrbool idP
+R1478 ssrbool idP
+R1497 eqtype "x '==' y" eq_scope
+R1497 eqtype "x '==' y" eq_scope
+R1513 eqtype eqP
+R1513 eqtype eqP
+R1530 eqtype eq_sym
+R1530 eqtype eq_sym
+R1552 eqtype eqP
+R1552 eqtype eqP
+R1600 eqtype eqP
+R1600 eqtype eqP
+R1616 eqtype eqP
+R1616 eqtype eqP
+R1684 Coq.Init.Logic "x = y" type_scope
+R1680 eqtype "x '!=' y" eq_scope
+R1688 Coq.Init.Datatypes false
+R1729 ssrbool negP
+R1743 eqtype eq_refl
+R1729 ssrbool negP
+R1743 eqtype eq_refl
+R1761 ssrbool negP
+R1761 ssrbool negP
+R2118 Coq.Init.Logic "x = y" type_scope
+R2113 ssrnat "m < n" dnat_scope
+R2109 Coq.Init.Datatypes S
+R2115 Coq.Init.Datatypes S
+R2125 ssrnat "m < n" dnat_scope
+R2210 Coq.Init.Logic "x = y" type_scope
+R2200 ssrnat "m <= n" dnat_scope
+R2196 Coq.Init.Datatypes S
+R2203 Coq.Init.Datatypes S
+R2215 ssrnat "m <= n" dnat_scope
+R2312 Coq.Init.Datatypes nat
+R2294 Coq.Init.Datatypes nat
+R2294 Coq.Init.Datatypes nat
+R2341 Coq.Init.Datatypes O
+R2358 Coq.Init.Datatypes O
+R2369 Coq.Init.Datatypes S
+R2374 Coq.Init.Datatypes S
+R2381 Coq.Init.Datatypes S
+R2294 Coq.Init.Datatypes nat
+R2294 Coq.Init.Datatypes nat
+R2438 Coq.Init.Logic "x = y" type_scope
+R2428 constructive_lib Nat.max
+R2440 ssreflect "'if' c 'then' v1 'else' v2" boolean_if_scope
+R2446 ssrnat "m <= n" dnat_scope
+R2516 ssrbool fun_if
+R2523 Coq.Init.Datatypes S
+R2516 ssrbool fun_if
+R2523 Coq.Init.Datatypes S
+R2568 Coq.Init.Logic "x = y" type_scope
+R2560 constructive_lib Nat.max
+R2601 constructive_lib Nat.maxE
+R2606 ssrnat leqnn
+R2601 constructive_lib Nat.maxE
+R2606 ssrnat leqnn
+R2651 Coq.Init.Logic "x = y" type_scope
+R2643 constructive_lib Nat.max
+R2647 Coq.Init.Datatypes O
+R2707 Coq.Init.Logic "x = y" type_scope
+R2699 constructive_lib Nat.max
+R2705 Coq.Init.Datatypes O
+R2743 constructive_lib Nat.maxE
+R2748 ssrnat leqn0
+R2743 constructive_lib Nat.maxE
+R2748 ssrnat leqn0
+R2743 constructive_lib Nat.maxE
+R2748 ssrnat leqn0
+R2797 ssrnat "m <= n" dnat_scope
+R2800 constructive_lib Nat.max
+R2790 Coq.Init.Datatypes nat
+R2790 Coq.Init.Datatypes nat
+R2848 constructive_lib Nat.maxE
+R2848 constructive_lib Nat.maxE
+R2869 ssrnat "m <= n" dnat_scope
+R2869 ssrnat "m <= n" dnat_scope
+R2936 Coq.Init.Logic "x = y" type_scope
+R2928 constructive_lib Nat.max
+R2938 constructive_lib Nat.max
+R2987 constructive_lib Nat.maxE
+R2987 constructive_lib Nat.maxE
+R3005 ssrnat "m <= n" dnat_scope
+R3005 ssrnat "m <= n" dnat_scope
+R3034 ssrnat "m <= n" dnat_scope
+R3034 ssrnat "m <= n" dnat_scope
+R3056 eqtype eqP
+R3056 eqtype eqP
+R3074 ssrnat eqn_leq
+R3074 ssrnat eqn_leq
+R3102 ssrbool negbT
+R3102 ssrbool negbT
+R3118 ssrnat ltnNge
+R3118 ssrnat ltnNge
+R3131 ssrnat ltnW
+R3131 ssrnat ltnW
+R3203 ssrnat "m <= n" dnat_scope
+R3206 constructive_lib Nat.max
+R3242 constructive_lib Nat.max_sym
+R3258 constructive_lib Nat.max_leL
+R3242 constructive_lib Nat.max_sym
+R3258 constructive_lib Nat.max_leL
+R3428 ssrnat "m < n" dnat_scope
+R3430 Coq.Init.Datatypes S
+R3384 ssrnat "m < n" dnat_scope
+R3351 Coq.Init.Datatypes O
+R3335 Coq.Init.Datatypes nat
+R3507 ssrnat ltnS
+R3512 ssrnat leqn0
+R3507 ssrnat ltnS
+R3512 ssrnat leqn0
+R3538 eqtype eqP
+R3538 eqtype eqP
+R3554 ssrnat ltnS
+R3559 ssrnat leq_eqVlt
+R3554 ssrnat ltnS
+R3559 ssrnat leq_eqVlt
+R3589 ssrbool orP
+R3589 ssrbool orP
+R3607 eqtype eqP
+R3607 eqtype eqP
+R3636 Coq.Init.Datatypes S
+R3636 Coq.Init.Datatypes S
+R3755 ssrnat "m < n" dnat_scope
+R3722 Coq.Init.Datatypes O
+R3706 Coq.Init.Datatypes nat
+R3826 constructive_lib Nat.comp_ind_aux
+R3846 ssrnat ltnSn
+R3826 constructive_lib Nat.comp_ind_aux
+R3846 ssrnat ltnSn
+R3925 eqtype "x '==' y" eq_scope
+R3911 eqtype "x '==' y" eq_scope
+R3907 ssrnat "m * n" dnat_scope
+R3916 ssrnat "m * n" dnat_scope
+R3897 eqtype "x '!=' y" eq_scope
+R3900 Coq.Init.Datatypes "" nat_scope
+R3971 ssrbool negbET
+R3992 ssrnat eqn_leq
+R4001 ssrnat leq_mul2l
+R4018 ssrnat eqn_leq
+R3971 ssrbool negbET
+R3992 ssrnat eqn_leq
+R4001 ssrnat leq_mul2l
+R4018 ssrnat eqn_leq
+R4106 eqtype "x '==' y" eq_scope
+R4092 eqtype "x '==' y" eq_scope
+R4088 ssrnat "m * n" dnat_scope
+R4097 ssrnat "m * n" dnat_scope
+R4078 eqtype "x '!=' y" eq_scope
+R4081 Coq.Init.Datatypes "" nat_scope
+R4153 eqtype eqP
+R4171 constructive_lib Nat.muln_injL
+R4153 eqtype eqP
+R4171 constructive_lib Nat.muln_injL
+R4201 ssrnat mulnC
+R4210 ssrnat mulnC
+R4201 ssrnat mulnC
+R4210 ssrnat mulnC
+R4260 Coq.Init.Logic "'exists' x , p" type_scope
+R4278 Coq.Init.Logic "x = y" type_scope
+R4273 ssrnat "m * n" dnat_scope
+R4349 Coq.Init.Datatypes nat
+R4331 Coq.Init.Datatypes nat
+R4331 Coq.Init.Datatypes nat
+R4318 Coq.Init.Datatypes bool
+R4311 Coq.Init.Datatypes nat
+R4379 Coq.Init.Datatypes O
+R4392 Coq.Init.Datatypes S
+R4419 ssreflect "'if' c 'then' v1 'else' v2" boolean_if_scope
+R4412 ssrnat "m - n" dnat_scope
+R4331 Coq.Init.Datatypes nat
+R4331 Coq.Init.Datatypes nat
+R4318 Coq.Init.Datatypes bool
+R4311 Coq.Init.Datatypes nat
+R4496 constructive_lib Nat.smallest_aux
+R4570 Coq.Init.Datatypes O
+R4565 ssrnat addn
+R4540 seq seq
+R4544 ssrnat nat_eqType
+R4654 Coq.Init.Logic "x = y" type_scope
+R4645 constructive_lib Nat.natsum
+R4664 ssrnat "m * n" dnat_scope
+R4608 seq seq
+R4612 ssrnat nat_eqType
+R4721 ssrbool andP
+R4721 ssrbool andP
+R4743 eqtype eqP
+R4743 eqtype eqP
+R4843 ssrnat "m <= n" dnat_scope
+R4839 ssrnat "m - n" dnat_scope
+R4829 ssrnat "m <= n" dnat_scope
+R4894 ssrnat leq_trans
+R4894 ssrnat leq_trans
+R4921 ssrnat leq_subr
+R4921 ssrnat leq_subr
+R4993 ssrnat "m < n" dnat_scope
+R4989 ssrnat "m - n" dnat_scope
+R4980 ssrnat "m < n" dnat_scope
+R5043 ssrnat leq_trans
+R5054 Coq.Init.Datatypes S
+R5043 ssrnat leq_trans
+R5054 Coq.Init.Datatypes S
+R5075 constructive_lib Nat.leqSS
+R5075 constructive_lib Nat.leqSS
+R5089 ssrnat leq_subr
+R5089 ssrnat leq_subr
+R5169 ssrnat "m < n" dnat_scope
+R5160 ssrnat "m < n" dnat_scope
+R5150 ssrnat "m <= n" dnat_scope
+R5215 constructive_lib Nat.leqSS
+R5237 ssrnat leq_trans
+R5215 constructive_lib Nat.leqSS
+R5237 ssrnat leq_trans
+R5312 ssrnat "m < n" dnat_scope
+R5302 ssrnat "m <= n" dnat_scope
+R5293 ssrnat "m < n" dnat_scope
+R5357 ssrnat leq_trans
+R5357 ssrnat leq_trans
+R5413 ssrnat "m <= n" dnat_scope
+R5418 ssrnat "x + y" dnat_scope
+R5423 ssrnat "m - n" dnat_scope
+R5466 ssrnat leqP
+R5466 ssrnat leqP
+R5509 ssrnat leq
+R5509 ssrnat leq
+R5528 eqtype eqP
+R5528 eqtype eqP
+R5552 ssrnat addn0
+R5552 ssrnat addn0
+R5567 ssrnat leq_add_sub
+R5567 ssrnat leq_add_sub
+R5594 ssrnat ltnW
+R5594 ssrnat ltnW
+R5667 ssrnat "m <= n" dnat_scope
+R5672 ssrnat "m - n" dnat_scope
+R5657 ssrnat "m <= n" dnat_scope
+R5653 ssrnat "x + y" dnat_scope
+R5730 ssrnat leqn0
+R5736 ssrnat eqn_add0
+R5730 ssrnat leqn0
+R5736 ssrnat eqn_add0
+R5753 ssrbool andP
+R5753 ssrbool andP
+R5778 eqtype eqP
+R5778 eqtype eqP
+R5801 ssrnat leq_eqVlt
+R5801 ssrnat leq_eqVlt
+R5817 ssrbool orP
+R5817 ssrbool orP
+R5836 eqtype eqP
+R5836 eqtype eqP
+R5860 ssrnat addnC
+R5866 ssrnat subn_addr
+R5860 ssrnat addnC
+R5866 ssrnat subn_addr
+R5885 constructive_lib Nat.leqSS
+R5885 constructive_lib Nat.leqSS
+R5914 ssrnat leq_trans
+R5914 ssrnat leq_trans
+R5937 ssrnat eqn_sub0
+R5946 ssrnat subn_sub
+R5955 ssrnat eqn_sub0
+R5937 ssrnat eqn_sub0
+R5946 ssrnat subn_sub
+R5955 ssrnat eqn_sub0
+R5974 ssrnat leq_trans
+R5985 Coq.Init.Datatypes S
+R5974 ssrnat leq_trans
+R5985 Coq.Init.Datatypes S
+R6005 constructive_lib Nat.ltn_add_sub
+R6005 constructive_lib Nat.ltn_add_sub
+R6132 Coq.Init.Datatypes nat
+R6122 Coq.Init.Datatypes nat
+R6103 ssrnat nat_eqType
+R6082 eqtype set
+R6086 ssrnat nat_eqType
+R6177 Coq.Init.Datatypes O
+R6190 Coq.Init.Datatypes S
+R6200 ssreflect "'if' c 'then' v1 'else' v2" boolean_if_scope
+R6233 Coq.Init.Datatypes S
+R6132 Coq.Init.Datatypes nat
+R6122 Coq.Init.Datatypes nat
+R6103 ssrnat nat_eqType
+R6082 eqtype set
+R6086 ssrnat nat_eqType
+R6355 ssrnat "m <= n" dnat_scope
+R6334 constructive_lib Nat.find_first
+R6327 Coq.Init.Logic "x = y" type_scope
+R6321 ssrnat "x + y" dnat_scope
+R6291 eqtype set
+R6295 ssrnat nat_eqType
+R6457 ssrnat leq_addr
+R6457 ssrnat leq_addr
+R6500 ssrnat addSnnS
+R6500 ssrnat addSnnS
+R6582 Coq.Init.Logic "'exists' x , p" type_scope
+R6596 Coq.Init.Logic "A /\ B" type_scope
+R6618 ssrnat "m <= n" dnat_scope
+R6553 eqtype set
+R6557 ssrnat nat_eqType
+R6665 constructive_lib Nat.find_first
+R6678 Coq.Init.Datatypes "" nat_scope
+R6665 constructive_lib Nat.find_first
+R6678 Coq.Init.Datatypes "" nat_scope
+R6748 constructive_lib Nat.find_first
+R6736 Coq.Init.Logic "x = y" type_scope
+R6732 ssrnat "m - n" dnat_scope
+R6722 ssrnat "m <= n" dnat_scope
+R6748 constructive_lib Nat.find_first
+R6736 Coq.Init.Logic "x = y" type_scope
+R6732 ssrnat "m - n" dnat_scope
+R6722 ssrnat "m <= n" dnat_scope
+R6803 ssrnat subn0
+R6803 ssrnat subn0
+R6871 ssrnat "m < n" dnat_scope
+R6871 ssrnat "m < n" dnat_scope
+R6888 ssrnat leq_eqVlt
+R6888 ssrnat leq_eqVlt
+R6915 ssrbool orP
+R6915 ssrbool orP
+R6947 eqtype eqP
+R6947 eqtype eqP
+R6976 ssrnat subnn
+R6976 ssrnat subnn
+R7046 ssrnat ltn_subS
+R7046 ssrnat ltn_subS
+R7075 eqtype eqP
+R7075 eqtype eqP
+R7094 ssrnat eqSS
+R7106 eqtype eqP
+R7094 ssrnat eqSS
+R7106 eqtype eqP
+R7197 ssrnat "m <= n" dnat_scope
+R7178 constructive_lib Nat.find_first
+R7160 Coq.Init.Logic "x = y" type_scope
+R7164 ssrnat "m - n" dnat_scope
+R7150 ssrnat "m <= n" dnat_scope
+R7140 ssrnat "m <= n" dnat_scope
+R7197 ssrnat "m <= n" dnat_scope
+R7178 constructive_lib Nat.find_first
+R7160 Coq.Init.Logic "x = y" type_scope
+R7164 ssrnat "m - n" dnat_scope
+R7150 ssrnat "m <= n" dnat_scope
+R7140 ssrnat "m <= n" dnat_scope
+R7249 ssrnat subn0
+R7249 ssrnat subn0
+R7301 eqtype eqP
+R7301 eqtype eqP
+R7320 eqtype eq_sym
+R7327 ssrnat eqn_sub0
+R7320 eqtype eq_sym
+R7327 ssrnat eqn_sub0
+R7350 ssrbool andP
+R7357 Coq.Init.Logic conj
+R7357 Coq.Init.Logic conj
+R7350 ssrbool andP
+R7382 ssrnat eqn_leq
+R7382 ssrnat eqn_leq
+R7401 eqtype eqP
+R7401 eqtype eqP
+R7420 ssrnat leq_eqVlt
+R7420 ssrnat leq_eqVlt
+R7443 ssrbool orP
+R7443 ssrbool orP
+R7469 eqtype eqP
+R7469 eqtype eqP
+R7550 ssrnat leq_eqVlt
+R7564 ssrbool orbT
+R7550 ssrnat leq_eqVlt
+R7564 ssrbool orbT
+R7578 ssrnat leq_eqVlt
+R7578 ssrnat leq_eqVlt
+R7601 ssrbool orP
+R7601 ssrbool orP
+R7628 eqtype eqP
+R7628 eqtype eqP
+R7653 ssrnat subnn
+R7653 ssrnat subnn
+R7704 ssrnat ltn_subS
+R7704 ssrnat ltn_subS
+R7731 eqtype eqP
+R7731 eqtype eqP
+R7748 ssrnat eqSS
+R7760 eqtype eqP
+R7748 ssrnat eqSS
+R7760 eqtype eqP
+R7816 constructive_lib divides
+R8258 Coq.Init.Logic "x = y" type_scope
+R8339 Coq.Init.Logic "x = y" type_scope
+R8335 eqtype "x '==' y" eq_scope
+R8338 Coq.Init.Datatypes "" nat_scope
+R8346 eqtype "x '==' y" eq_scope
+R8320 seq seq
+R8448 Coq.Init.Datatypes nat
+R8436 seq seq
+R8403 Coq.Init.Datatypes nat
+R8492 seq Seq0
+R8508 seq Adds
+R8545 Coq.Init.Datatypes S
+R8448 Coq.Init.Datatypes nat
+R8436 seq seq
+R8403 Coq.Init.Datatypes nat
+R8587 constructive_lib Seq_.foldrn_aux
+R8604 Coq.Init.Datatypes O
+R8671 seq seq
+R8676 seq seq_eqType
+R8653 Coq.Init.Datatypes nat
+R8643 Coq.Init.Datatypes nat
+R8631 seq seq
+R8721 seq Seq0
+R8750 Coq.Init.Datatypes O
+R8776 Coq.Init.Datatypes O
+R8798 Coq.Init.Datatypes S
+R8813 ssreflect "'if' c 'then' v1 'else' v2" boolean_if_scope
+R8818 eqtype "x '==' y" eq_scope
+R8833 seq Adds
+R8653 Coq.Init.Datatypes nat
+R8643 Coq.Init.Datatypes nat
+R8631 seq seq
+R8935 constructive_lib Seq_.chop_aux
+R8995 Coq.Init.Logic "x = y" type_scope
+R8983 constructive_lib Seq_.chop
+R9060 Coq.Init.Logic "x = y" type_scope
+R9051 constructive_lib Seq_.chop
+R9058 Coq.Init.Datatypes "" nat_scope
+R9114 seq seq
+R9119 seq seq_eqType
+R9227 Coq.Init.Logic "x = y" type_scope
+R9217 constructive_lib Seq_.concat
+R9229 constructive_lib natsum
+R9190 seq seq
+R9195 seq seq_eqType
+R9270 constructive_lib Seq_.concat
+R9278 constructive_lib natsum
+R9319 seq size_cat
+R9270 constructive_lib Seq_.concat
+R9278 constructive_lib natsum
+R9319 seq size_cat
+R9386 Coq.Init.Logic "x = y" type_scope
+R9368 constructive_lib Seq_.chop_aux
+R9516 Coq.Init.Logic "x = y" type_scope
+R9501 constructive_lib Seq_.chop_aux
+R9518 seq "'Seq' x1" seq_scope
+R9493 ssrnat "m <= n" dnat_scope
+R9478 ssrnat "m <= n" dnat_scope
+R9601 Coq.Init.Logic "x = y" type_scope
+R9592 constructive_lib Seq_.chop
+R9603 seq "'Seq' x1" seq_scope
+R9584 ssrnat "m <= n" dnat_scope
+R9693 Coq.Init.Logic "x = y" type_scope
+R9675 Coq.Init.Logic "x = y" type_scope
+R9665 seq Adds
+R9677 seq Adds
+R9863 Coq.Init.Logic "x = y" type_scope
+R9848 constructive_lib chop_aux
+R9859 Coq.Init.Datatypes "" nat_scope
+R9838 seq seq
+R9962 Coq.Init.Logic "x = y" type_scope
+R9947 constructive_lib chop_aux
+R9960 Coq.Init.Datatypes "" nat_scope
+R9937 seq seq
+R10089 Coq.Init.Logic "x = y" type_scope
+R10074 constructive_lib chop_aux
+R10091 constructive_lib chop_aux
+R10066 ssrnat "m <= n" dnat_scope
+R10046 seq seq
+R10161 ssrnat leqn0
+R10161 ssrnat leqn0
+R10177 constructive_lib size0
+R10177 constructive_lib size0
+R10190 eqtype eqP
+R10190 eqtype eqP
+R10213 constructive_lib chop_aux0
+R10213 constructive_lib chop_aux0
+R10270 constructive_lib chop_aux0
+R10270 constructive_lib chop_aux0
+R10311 constructive_lib Seq1.chop_aux0'
+R10311 constructive_lib Seq1.chop_aux0'
+R10331 ssrnat leq_eqVlt
+R10331 ssrnat leq_eqVlt
+R10352 ssrbool orP
+R10352 ssrbool orP
+R10379 eqtype eqP
+R10379 eqtype eqP
+R10403 seq Adds
+R10403 seq Adds
+R10428 ssreflect lock
+R10428 ssreflect lock
+R10445 ssrnat eqSS
+R10445 ssrnat eqSS
+R10464 eqtype "x '==' y" eq_scope
+R10464 eqtype "x '==' y" eq_scope
+R10478 eqtype eqP
+R10478 eqtype eqP
+R10512 ssrnat ltnn
+R10512 ssrnat ltnn
+R10535 ssreflect lock
+R10535 ssreflect lock
+R10635 Coq.Init.Logic "x = y" type_scope
+R10626 constructive_lib chop
+R10637 seq Adds
+R10654 constructive_lib chop
+R10618 Coq.Init.Logic "x <> y" type_scope
+R10621 Coq.Init.Datatypes "" nat_scope
+R10605 Coq.Init.Logic "x <> y" type_scope
+R10590 seq seq
+R10741 constructive_lib chop
+R10741 constructive_lib chop
+R10766 eqtype eq_refl
+R10766 eqtype eq_refl
+R10781 seq Adds
+R10781 seq Adds
+R10781 seq Adds
+R10798 constructive_lib Seq1.chop_terminates
+R10817 seq size_drop
+R10827 ssrnat leq_subr
+R10798 constructive_lib Seq1.chop_terminates
+R10817 seq size_drop
+R10827 ssrnat leq_subr
+R10921 Coq.Init.Logic "x = y" type_scope
+R10899 constructive_lib chop
+R10916 Coq.Init.Datatypes S
+R10905 seq Adds
+R10923 seq Adds
+R10949 constructive_lib chop
+R10966 Coq.Init.Datatypes S
+R10929 seq Adds
+R10886 seq seq
+R11004 constructive_lib Seq1.chopP
+R11004 constructive_lib Seq1.chopP
+R11102 ssrnat "m <= n" dnat_scope
+R11091 constructive_lib chop
+R11111 constructive_lib chop
+R11071 ssrnat "m <= n" dnat_scope
+R11051 seq seq
+R11051 seq seq
+R11164 Coq.Init.Datatypes S
+R11185 ssrnat ltnSn
+R11164 Coq.Init.Datatypes S
+R11185 ssrnat ltnSn
+R11254 constructive_lib Seq1.chop_adds
+R11254 constructive_lib Seq1.chop_adds
+R11279 constructive_lib leqSS
+R11279 constructive_lib leqSS
+R11302 constructive_lib leqSS
+R11302 constructive_lib leqSS
+R11324 constructive_lib leqSS
+R11324 constructive_lib leqSS
+R11358 ssrnat "m < n" dnat_scope
+R11358 ssrnat "m < n" dnat_scope
+R11373 seq size_drop
+R11373 seq size_drop
+R11396 constructive_lib ltn_sub
+R11396 constructive_lib ltn_sub
+R11424 Coq.Init.Datatypes S
+R11424 Coq.Init.Datatypes S
+R11440 seq size_drop
+R11440 seq size_drop
+R11461 ssrnat leq_sub2
+R11461 ssrnat leq_sub2
+R11576 Coq.Init.Logic "x = y" type_scope
+R11549 constructive_lib chop
+R11578 seq Adds
+R11587 constructive_lib chop
+R11533 ssrnat "m < n" dnat_scope
+R11531 Coq.Init.Datatypes "" nat_scope
+R11521 seq seq
+R11521 seq seq
+R11671 constructive_lib Seq1.chop_adds
+R11684 seq cats0
+R11690 constructive_lib chop0
+R11696 seq take_oversize
+R11711 ssrnat leqnn
+R11720 seq drop_oversize
+R11735 ssrnat leqnn
+R11671 constructive_lib Seq1.chop_adds
+R11684 seq cats0
+R11690 constructive_lib chop0
+R11696 seq take_oversize
+R11711 ssrnat leqnn
+R11720 seq drop_oversize
+R11735 ssrnat leqnn
+R11757 constructive_lib Seq1.chop_adds
+R11767 seq take_cat
+R11776 ssrnat ltnn
+R11781 ssrnat subnn
+R11787 seq take0
+R11793 seq cats0
+R11799 seq drop_cat
+R11808 ssrnat ltnn
+R11813 ssrnat subnn
+R11819 seq drop0
+R11757 constructive_lib Seq1.chop_adds
+R11767 seq take_cat
+R11776 ssrnat ltnn
+R11781 ssrnat subnn
+R11787 seq take0
+R11793 seq cats0
+R11799 seq drop_cat
+R11808 ssrnat ltnn
+R11813 ssrnat subnn
+R11819 seq drop0
+R11958 Coq.Init.Logic "x = y" type_scope
+R11940 constructive_lib chop
+R11946 constructive_lib concat
+R11929 eqtype "x '==' y" eq_scope
+R11901 ssrnat "m < n" dnat_scope
+R11899 Coq.Init.Datatypes O
+R11873 seq seq
+R11878 seq seq_eqType
+R12015 ssrbool andP
+R12015 ssrbool andP
+R12039 eqtype eq_sym
+R12039 eqtype eq_sym
+R12058 eqtype eqP
+R12058 eqtype eqP
+R12084 constructive_lib Seq1.chop_cat
+R12084 constructive_lib Seq1.chop_cat
+R12121 seq Adds
+R12121 seq Adds
+R12121 seq Adds
+R12252 seq seq
+R12231 seq seq
+R12219 seq seq
+R12287 seq Adds
+R12298 seq Adds
+R12311 seq Adds
+R12231 seq seq
+R12219 seq seq
+R12408 Coq.Init.Logic "x = y" type_scope
+R12393 constructive_lib Seq1.maps2
+R12574 seq seq
+R12673 ssrbool andP
+R12673 ssrbool andP
+R12752 seq seq
+R12851 ssrbool andP
+R12851 ssrbool andP
+R12958 Coq.Init.Logic "x = y" type_scope
+R12973 constructive_lib chop
+R12943 ssrnat "m < n" dnat_scope
+R12941 Coq.Init.Datatypes "" nat_scope
+R12931 seq seq
+R13025 Coq.Init.Datatypes S
+R13044 ssrnat ltnSn
+R13025 Coq.Init.Datatypes S
+R13044 ssrnat ltnSn
+R13105 constructive_lib ltnSS
+R13105 constructive_lib ltnSS
+R13124 ssrbool idP
+R13128 ssrbool idP
+R13124 ssrbool idP
+R13128 ssrbool idP
+R13140 ssrbool andP
+R13140 ssrbool andP
+R13168 constructive_lib chop_adds
+R13187 constructive_lib Seq3.take_all
+R13168 constructive_lib chop_adds
+R13187 constructive_lib Seq3.take_all
+R13228 ssrnat "m < n" dnat_scope
+R13228 ssrnat "m < n" dnat_scope
+R13245 seq size_drop
+R13245 seq size_drop
+R13269 ssrnat leq_trans
+R13280 Coq.Init.Datatypes S
+R13269 ssrnat leq_trans
+R13280 Coq.Init.Datatypes S
+R13315 constructive_lib leqSS
+R13321 ssrnat leq_subr
+R13315 constructive_lib leqSS
+R13321 ssrnat leq_subr
+R13354 ssrnat ltn0Sn
+R13348 Coq.Init.Datatypes S
+R13354 ssrnat ltn0Sn
+R13348 Coq.Init.Datatypes S
+R13384 constructive_lib Seq3.drop_all
+R13384 constructive_lib Seq3.drop_all
+R13402 constructive_lib chop_adds
+R13402 constructive_lib chop_adds
+R13425 ssrbool andbA
+R13425 ssrbool andbA
+R13437 ssrbool and3P
+R13437 ssrbool and3P
+R13482 seq cat_take_drop
+R13501 seq all_cat
+R13482 seq cat_take_drop
+R13501 seq all_cat
+R13541 ssrnat "m < n" dnat_scope
+R13541 ssrnat "m < n" dnat_scope
+R13556 seq size_drop
+R13556 seq size_drop
+R13578 ssrnat leq_trans
+R13589 Coq.Init.Datatypes S
+R13578 ssrnat leq_trans
+R13589 Coq.Init.Datatypes S
+R13622 constructive_lib leqSS
+R13628 ssrnat leq_subr
+R13622 constructive_lib leqSS
+R13628 ssrnat leq_subr
+R13662 ssrnat ltn0Sn
+R13656 Coq.Init.Datatypes S
+R13662 ssrnat ltn0Sn
+R13656 Coq.Init.Datatypes S
+R13768 constructive_lib chop
+R13761 ssrnat "m <= n" dnat_scope
+R13730 seq seq
+R13817 Coq.Init.Datatypes S
+R13836 ssrnat ltnSn
+R13817 Coq.Init.Datatypes S
+R13836 ssrnat ltnSn
+R13894 constructive_lib ltnSS
+R13894 constructive_lib ltnSS
+R13915 constructive_lib chop_adds
+R13915 constructive_lib chop_adds
+R13937 seq size_take
+R13937 seq size_take
+R13960 ssrnat "m < n" dnat_scope
+R13960 ssrnat "m < n" dnat_scope
+R13982 ssrnat ltnSn
+R13982 ssrnat ltnSn
+R14015 seq size_drop
+R14015 seq size_drop
+R14038 constructive_lib ltn_sub
+R14038 constructive_lib ltn_sub
+R14053 ssrbool andP
+R14053 ssrbool andP
+R14073 ssrbool negbT
+R14073 ssrbool negbT
+R14096 ssrnat leqNgt
+R14096 ssrnat leqNgt
+R14115 ssrnat leqNgt
+R14115 ssrnat leqNgt
+R14141 constructive_lib leqSS
+R14141 constructive_lib leqSS
+R14167 seq size_drop
+R14167 seq size_drop
+R14188 constructive_lib ltn_sub
+R14188 constructive_lib ltn_sub
+R14279 Coq.Init.Logic "x = y" type_scope
+R14287 constructive_lib chop
+R14293 constructive_lib concat
+R14301 seq seqn
+R14260 Coq.Init.Logic "x <> y" type_scope
+R14247 seq seq
+R14247 seq seq
+R14392 constructive_lib chop_adds
+R14392 constructive_lib chop_adds
+R14414 seq drop_cat
+R14423 ssrnat ltnn
+R14428 ssrnat subnn
+R14437 seq drop0
+R14414 seq drop_cat
+R14423 ssrnat ltnn
+R14428 ssrnat subnn
+R14437 seq drop0
+R14464 Coq.Init.Logic "x <> y" type_scope
+R14454 seq Adds
+R14464 Coq.Init.Logic "x <> y" type_scope
+R14454 seq Adds
+R14487 Coq.Init.Datatypes S
+R14487 Coq.Init.Datatypes S
+R14487 Coq.Init.Datatypes S
+R14504 seq Adds
+R14504 seq Adds
+R14615 Coq.Init.Logic "x = y" type_scope
+R14567 seq seq
+R14691 eqtype "x '==' y" eq_scope
+R14691 eqtype "x '==' y" eq_scope
+R14708 eqtype eqP
+R14708 eqtype eqP
+R14764 ssrbool orP
+R14764 ssrbool orP
+R14794 eqtype eq_sym
+R14794 eqtype eq_sym
+R14867 Coq.Init.Logic "x = y" type_scope
+R14860 seq seq
+R14947 Coq.Init.Logic "x = y" type_scope
+R14929 seq seq
+R15056 Coq.Init.Logic "x = y" type_scope
+R15064 seq seq
+R15149 Coq.Init.Logic "x = y" type_scope
+R15141 Coq.Init.Datatypes S
+R15125 seq seq
+R15219 seq drop0
+R15219 seq drop0
+R15278 Coq.Init.Logic "x = y" type_scope
+R15390 Coq.Init.Logic "x = y" type_scope
+R15374 seq seq
+R15468 seq rev_adds
+R15477 seq has_add_last
+R15468 seq rev_adds
+R15477 seq has_add_last
+R15546 Coq.Init.Logic "x = y" type_scope
+R15537 seq seqn
+R15542 Coq.Init.Datatypes O
+R15635 Coq.Init.Logic "x = y" type_scope
+R15625 seq seqn
+R15611 ssrnat "m < n" dnat_scope
+R15609 Coq.Init.Datatypes O
+R15700 ssrbool idP
+R15704 ssrbool idP
+R15700 ssrbool idP
+R15704 ssrbool idP
+R15719 ssrbool andP
+R15719 ssrbool andP
+R15879 Coq.Init.Logic "x = y" type_scope
+R15881 seq Adds
+R15906 Coq.Init.Datatypes S
+R15853 ssrnat "m < n" dnat_scope
+R15980 seq drop0
+R15980 seq drop0
+R16048 seq seq
+R16089 seq allP
+R16089 seq allP
+R16155 Coq.Init.Datatypes S
+R16121 seq seq
+R16209 Coq.Init.Logic "x = y" type_scope
+R16191 constructive_lib Seq3.pop
+R16207 Coq.Init.Datatypes O
+R16196 seq Adds
+R16248 constructive_lib Seq3.pop
+R16255 seq drop0
+R16248 constructive_lib Seq3.pop
+R16255 seq drop0
+R16326 Coq.Init.Logic "x = y" type_scope
+R16317 constructive_lib Seq3.pop
+R16328 Coq.Init.Peano pred
+R16299 ssrnat "m < n" dnat_scope
+R16402 constructive_lib Seq3.pop0
+R16402 constructive_lib Seq3.pop0
+R16416 constructive_lib ltnSS
+R16416 constructive_lib ltnSS
+R16432 constructive_lib Seq3.pop
+R16432 constructive_lib Seq3.pop
+R16554 constructive_lib Seq3.pop
+R16537 seq seq
+R16600 seq allP
+R16600 seq allP
+R16620 constructive_lib Seq3.pop
+R16620 constructive_lib Seq3.pop
+R16633 seq mem_cat
+R16633 seq mem_cat
+R16653 ssrbool orP
+R16653 ssrbool orP
+R16674 seq mem_take
+R16674 seq mem_take
+R16691 seq mem_drop
+R16691 seq mem_drop
+R16786 Coq.Init.Logic "x = y" type_scope
+R16760 ssrnat "m <= n" dnat_scope
+R16746 seq seq
+R16861 seq Adds
+R16861 seq Adds
+R16861 seq Adds
+R16937 eqtype sub_set
+R16930 seq seq
+R16930 seq seq
+R16993 seq mem_cat
+R16993 seq mem_cat
+R17099 eqtype sub_set
+R17082 eqtype sub_set
+R17065 eqtype sub_set
+R17058 seq seq
+R17058 seq seq
+R17058 seq seq
+R17058 seq seq
+R17187 seq mem_cat
+R17187 seq mem_cat
+R17207 ssrbool orP
+R17207 ssrbool orP
+R17273 ssrbool orbT
+R17273 ssrbool orbT
+R17336 eqtype sub_set
+R17347 seq Adds
+R17326 seq seq
+R17416 ssrbool orP
+R17416 ssrbool orP
+R17435 eqtype eqP
+R17435 eqtype eqP
+R17472 ssrbool or3P
+R17472 ssrbool or3P
+R17530 ssrbool or3P
+R17530 ssrbool or3P
+R17633 Coq.Init.Logic "x = y" type_scope
+R17617 seq seqn
+R17610 ssrnat "m < n" dnat_scope
+R17608 Coq.Init.Datatypes O
+R17704 eqtype "x '==' y" eq_scope
+R17707 Coq.Init.Datatypes O
+R17704 eqtype "x '==' y" eq_scope
+R17707 Coq.Init.Datatypes O
+R17718 eqtype eqP
+R17718 eqtype eqP
+R17739 ssrbool orP
+R17739 ssrbool orP
+R17765 eqtype eqP
+R17765 eqtype eqP
+R17781 ssrnat neq0_lt0n
+R17781 ssrnat neq0_lt0n
+R17816 ssrbool orP
+R17816 ssrbool orP
+R17839 eqtype eqP
+R17839 eqtype eqP
+R18214 Coq.Init.Datatypes false
+R18267 eqtype sub_set
+R18257 eqtype set
+R18257 eqtype set
+R18379 ssrbool andP
+R18379 ssrbool andP
+R18402 ssrbool andP
+R18402 ssrbool andP
+R18518 eqtype sub_set
+R18501 eqtype sub_set
+R18484 eqtype sub_set
+R18477 eqtype set
+R18477 eqtype set
+R18477 eqtype set
+R18606 eqtype sub_set
+R18599 eqtype set
+R18681 eqtype sub_set
+R18674 eqtype set
+R18753 seq seq
+R18843 ssrbool andP
+R18843 ssrbool andP
+R18864 ssrbool orP
+R18864 ssrbool orP
+R18890 eqtype eqP
+R18890 eqtype eqP
+R18980 eqtype sub_set
+R18956 eqtype sub_set
+R18965 seq Adds
+R19071 ssrbool orbT
+R19071 ssrbool orbT
+R19152 eqtype sub_set
+R19133 eqtype set
+R19122 seq seq
+R19268 eqtype setU11
+R19268 eqtype setU11
+R19303 constructive_lib Eqtype.subset_adds
+R19303 constructive_lib Eqtype.subset_adds
+R19400 Coq.Init.Logic "x = y" type_scope
+R19378 ssrbool "'~~' b" bool_scope
+R19368 seq seq
+R19467 eqtype "x '==' y" eq_scope
+R19467 eqtype "x '==' y" eq_scope
+R19481 eqtype eqP
+R19481 eqtype eqP
+R19512 eqtype setU11
+R19512 eqtype setU11
+R19532 Coq.Init.Datatypes S
+R19532 Coq.Init.Datatypes S
+R19532 Coq.Init.Datatypes S
+R19579 ssrbool norP
+R19579 ssrbool norP
+R19693 eqtype sub_set
+R19669 eqtype sub_set
+R19680 seq Adds
+R19657 ssrbool "'~~' b" bool_scope
+R19777 ssrbool orP
+R19777 ssrbool orP
+R19800 eqtype eqP
+R19800 eqtype eqP
+R19836 ssrbool negP
+R19836 ssrbool negP
+R19920 eqtype sub_set
+R19912 seq seq
+R19912 seq seq
+R20024 constructive_lib Eqtype.subset_adds
+R20024 constructive_lib Eqtype.subset_adds
+R20056 ssrbool andP
+R20056 ssrbool andP
+R20116 constructive_lib antsE
+R20116 constructive_lib antsE
+R20150 eqtype eq_refl
+R20150 eqtype eq_refl
+R20223 ssrbool orP
+R20223 ssrbool orP
+R20241 eqtype eqP
+R20241 eqtype eqP
+R20261 ssrbool andP
+R20261 ssrbool andP
+R20292 ssrbool andP
+R20292 ssrbool andP
+R20398 eqtype sub_set
+R20373 eqtype sub_set
+R20363 eqtype set
+R20503 eqtype "x '==' y" eq_scope
+R20503 eqtype "x '==' y" eq_scope
+R20540 constructive_lib Eqtype.subset_setU1
+R20610 Coq.Init.Logic "A <-> B" type_scope
+R20596 eqtype sub_set
+R20589 seq seq
+R20589 seq seq
+R20718 ssrbool andP
+R20718 ssrbool andP
+R20772 eqtype eq_refl
+R20772 eqtype eq_refl
+R20827 constructive_lib Eqtype.subset0
+R20827 constructive_lib Eqtype.subset0
+R20841 ssrbool andP
+R20841 ssrbool andP
+R20872 ssrbool orP
+R20872 ssrbool orP
+R20896 eqtype eqP
+R20896 eqtype eqP
+R20994 eqtype sub_set
+R20987 seq seq
+R20987 seq seq
+R21074 ssrbool orP
+R21074 ssrbool orP
+R21093 eqtype eqP
+R21093 eqtype eqP
+R21113 eqtype setU11
+R21113 eqtype setU11
+R21144 ssrbool orP
+R21144 ssrbool orP
+R21213 eqtype sub_set
+R21206 seq seq
+R21206 seq seq
+R21311 ssrbool orP
+R21311 ssrbool orP
+R21390 Coq.Bool.Bool "x && y" bool_scope
+R21366 eqtype set
+R21366 eqtype set
+Fnati
+R459 Coq.Init.Datatypes nat
+R558 nati Inf
+R563 nati Inf
+R570 Coq.Init.Datatypes true
+R582 nati Nat
+R589 nati Nat
+R598 ssrnat eqn
+R619 Coq.Init.Datatypes false
+R525 nati nati
+R525 nati nati
+R651 eqtype reflect_eq
+R662 nati eqnati
+R742 ssrnat eqn
+R742 ssrnat eqn
+R774 eqtype eqP
+R774 eqtype eqP
+R869 Coq.Init.Logic "x = y" type_scope
+R861 ssrnat eqn
+R871 Coq.Init.Datatypes true
+R869 Coq.Init.Logic "x = y" type_scope
+R861 ssrnat eqn
+R871 Coq.Init.Datatypes true
+R976 nati eqnatiPx
+R1037 nati Nat
+R1045 nati Nat
+R1055 nati Nat
+R1063 ssrnat "x + y" dnat_scope
+R1083 nati Inf
+R1144 nati Nat
+R1152 nati Nat
+R1162 nati Nat
+R1170 ssrnat "m * n" dnat_scope
+R1190 nati Inf
+R1248 nati Inf
+R1258 Coq.Init.Datatypes true
+R1272 nati Inf
+R1279 Coq.Init.Datatypes false
+R1291 nati Nat
+R1299 nati Nat
+R1312 ssrnat "m <= n" dnat_scope
+R1371 nati Inf
+R1376 nati Inf
+R1383 Coq.Init.Datatypes false
+R1395 nati Inf
+R1405 Coq.Init.Datatypes true
+R1419 nati Inf
+R1426 Coq.Init.Datatypes false
+R1438 nati Nat
+R1446 nati Nat
+R1459 ssrnat "m < n" dnat_scope
+R1519 nati Nat
+R1527 nati Nat
+R1537 nati Nat
+R1545 ssrnat "m - n" dnat_scope
+R1557 nati Inf
+R1566 nati Inf
+R1579 nati Inf
+R1586 nati Nat
+R1590 Coq.Init.Datatypes "" nat_scope
+R1640 nati Inf
+R1647 nati Inf
+R1657 nati Nat
+R1667 nati Nat
+R1672 Coq.Init.Datatypes S
+R1760 nati Inf
+R1800 nati leq
+R1844 nati lt
+R1887 nati plusi
+R1933 nati muli
+R1978 nati mini
+R2034 Coq.Init.Logic "x = y" type_scope
+R2028 nati "x < y" nati_scope
+R2030 nati "-oo" nati_scope
+R2036 Coq.Init.Datatypes false
+R2097 Coq.Init.Logic "x = y" type_scope
+R2092 nati "x <= y" nati_scope
+R2088 nati "-oo" nati_scope
+R2099 Coq.Init.Datatypes true
+R2164 Coq.Init.Logic "x = y" type_scope
+R2158 nati "x < y" nati_scope
+R2153 nati S'
+R2160 nati S'
+R2171 nati "x < y" nati_scope
+R2250 Coq.Init.Logic "x = y" type_scope
+R2242 nati "x <= y" nati_scope
+R2237 nati S'
+R2245 nati S'
+R2255 nati "x <= y" nati_scope
+R2335 Coq.Init.Logic "x = y" type_scope
+R2326 nati "x + y" nati_scope
+R2328 nati "-oo" nati_scope
+R2337 nati "-oo" nati_scope
+R2402 Coq.Init.Logic "x = y" type_scope
+R2395 nati "x + y" nati_scope
+R2389 nati Nat
+R2393 Coq.Init.Datatypes O
+R2469 Coq.Init.Logic "x = y" type_scope
+R2457 nati S'
+R2462 nati "x + y" nati_scope
+R2477 nati "x + y" nati_scope
+R2472 nati S'
+R2546 nati "x < y" nati_scope
+R2542 nati "-oo" nati_scope
+R2548 nati Nat
+R2607 nati "x < y" nati_scope
+R2601 nati Nat
+R2609 nati S'
+R2613 nati Nat
+R2635 ssrnat leqnn
+R2635 ssrnat leqnn
+R2709 nati "x < y" nati_scope
+R2700 nati "x < y" nati_scope
+R2690 nati "x <= y" nati_scope
+R2682 nati nati
+R2682 nati nati
+R2682 nati nati
+R2768 ssrnat leq_eqVlt
+R2768 ssrnat leq_eqVlt
+R2784 ssrbool orP
+R2784 ssrbool orP
+R2805 eqtype eqP
+R2805 eqtype eqP
+R2824 ssrnat ltn_trans
+R2824 ssrnat ltn_trans
+R2913 nati "x <= y" nati_scope
+R2903 nati "x <= y" nati_scope
+R2893 nati "x <= y" nati_scope
+R2885 nati nati
+R2885 nati nati
+R2885 nati nati
+R2961 ssrnat leq_trans
+R2961 ssrnat leq_trans
+R3007 nati "x <= y" nati_scope
+R3043 ssrnat leqnn
+R3043 ssrnat leqnn
+R3085 nati nati
+R3101 Coq.Init.Datatypes bool
+R3093 Coq.Init.Datatypes bool
+R3163 Coq.Init.Datatypes false
+R3158 Coq.Init.Datatypes true
+R3134 nati "x <= y" nati_scope
+R3216 Coq.Init.Datatypes true
+R3210 Coq.Init.Datatypes false
+R3187 nati "x < y" nati_scope
+R3256 Coq.Init.Logic "x = y" type_scope
+R3253 nati "x < y" nati_scope
+R3260 Coq.Bool.Bool negb
+R3268 nati "x <= y" nati_scope
+R3311 ssrnat ltnNge
+R3311 ssrnat ltnNge
+R3351 nati leq_xor_gti
+R3379 nati "x < y" nati_scope
+R3370 nati "x <= y" nati_scope
+R3423 nati ltiNge
+R3444 nati "x <= y" nati_scope
+R3423 nati ltiNge
+R3444 nati "x <= y" nati_scope
+R3481 nati ltiNge
+R3481 nati ltiNge
+R3555 nati "-oo" nati_scope
+R3574 nati "-oo" nati_scope
+R3587 nati Nat
+R3595 nati Nat
+R3605 nati Nat
+R3610 constructive_lib max
+R3664 Coq.Init.Logic "x = y" type_scope
+R3653 nati maxi
+R3660 nati "-oo" nati_scope
+R3723 nati "x <= y" nati_scope
+R3726 nati maxi
+R3773 constructive_lib max_leL
+R3773 constructive_lib max_leL
+R3819 nati "x <= y" nati_scope
+R3822 nati maxi
+R3869 constructive_lib max_leR
+R3869 constructive_lib max_leR
+R3918 Coq.Init.Logic "x = y" type_scope
+R3914 nati "x <= y" nati_scope
+R3922 Coq.Bool.Bool negb
+R3930 nati "x < y" nati_scope
+R3972 ssrnat leqNgt
+R3972 ssrnat leqNgt
+R4019 Coq.Init.Logic "x = y" type_scope
+R4016 nati "x < y" nati_scope
+R4023 Coq.Bool.Bool negb
+R4031 nati "x <= y" nati_scope
+R4075 ssrnat ltnNge
+R4075 ssrnat ltnNge
+R4133 Coq.Init.Logic "x = y" type_scope
+R4135 nati "-oo" nati_scope
+R4124 nati "x < y" nati_scope
+R4120 nati "x + y" nati_scope
+R4188 ssrnat leq_addr
+R4188 ssrnat leq_addr
+R4211 ssrnat addnC
+R4211 ssrnat addnC
+R4234 ssrnat leq_trans
+R4234 ssrnat leq_trans
+R4263 ssrnat ltnn
+R4263 ssrnat ltnn
+R4334 Coq.Init.Logic "x = y" type_scope
+R4321 Coq.Init.Logic "x = y" type_scope
+R4315 nati Nat
+R4323 nati Nat
+R4442 Coq.Init.Logic "x = y" type_scope
+R4444 nati "-oo" nati_scope
+R4431 Coq.Init.Logic "x = y" type_scope
+R4424 nati "x - y" nati_scope
+R4433 nati "-oo" nati_scope
+R4583 nati S'
+R4566 nati nati
+R4543 nati Nat
+R4547 Coq.Init.Datatypes "" nat_scope
+R4533 nati "-oo" nati_scope
+R4513 nati nati
+R4777 Coq.Init.Logic "A \/ B" type_scope
+R4769 Coq.Init.Logic "x = y" type_scope
+R4771 nati Nat
+R4775 Coq.Init.Datatypes O
+R4782 Coq.Init.Logic "x = y" type_scope
+R4784 nati "-oo" nati_scope
+R4755 nati "x <= y" nati_scope
+R4758 nati Nat
+R4762 Coq.Init.Datatypes O
+R4845 ssrnat leqn0
+R4845 ssrnat leqn0
+R4857 eqtype eqP
+R4857 eqtype eqP
+R4944 Coq.Init.Logic "x = y" type_scope
+R4932 Coq.Init.Logic "x = y" type_scope
+R4927 nati S'
+R4934 nati S'
+R5040 Coq.Init.Logic "x = y" type_scope
+R5032 nati "x < y" nati_scope
+R5034 nati Nat
+R5038 Coq.Init.Datatypes O
+R5045 eqtype "x '==' y" eq_scope
+R5048 nati "-oo" nati_scope
+R5122 nati "x < y" nati_scope
+R5124 nati S'
+R5110 Coq.Init.Logic "x <> y" type_scope
+R5113 nati "-oo" nati_scope
+R5170 eqtype eqP
+R5170 eqtype eqP
+R5188 eqtype eq_refl
+R5188 eqtype eq_refl
+R5217 ssrnat ltnSn
+R5217 ssrnat ltnSn
+R5268 nati "x <= y" nati_scope
+R5271 nati S'
+R5350 Coq.Init.Logic "x = y" type_scope
+R5352 nati "-oo" nati_scope
+R5339 Coq.Init.Logic "x = y" type_scope
+R5334 nati S'
+R5341 nati "-oo" nati_scope
+R5424 Coq.Init.Logic "x = y" type_scope
+R5420 nati "x <= y" nati_scope
+R5435 Coq.Bool.Bool "x || y" bool_scope
+R5431 eqtype "x '==' y" eq_scope
+R5443 nati "x < y" nati_scope
+R5485 ssrnat leq_eqVlt
+R5485 ssrnat leq_eqVlt
+R5540 Coq.Init.Logic "x = y" type_scope
+R5529 nati "x + y" nati_scope
+R5531 nati Nat
+R5535 Coq.Init.Datatypes O
+R5581 ssrnat addn0
+R5581 ssrnat addn0
+R5647 Coq.Init.Logic "x = y" type_scope
+R5637 nati "x <= y" nati_scope
+R5627 nati "x <= y" nati_scope
+R5712 nati Nat
+R5712 nati Nat
+R5712 nati Nat
+R5735 ssrnat leq_eqVlt
+R5735 ssrnat leq_eqVlt
+R5751 ssrbool orP
+R5777 eqtype eqP
+R5751 ssrbool orP
+R5777 eqtype eqP
+R5790 ssrnat ltnNge
+R5790 ssrnat ltnNge
+R5813 ssrbool negP
+R5813 ssrbool negP
+R5892 Coq.Init.Logic "'exists' x , p" type_scope
+R5906 Coq.Init.Logic "A /\ B" type_scope
+R5928 nati "x <= y" nati_scope
+R5864 eqtype set
+R5868 nati eqnatiData
+R5985 nati "-oo" nati_scope
+R5985 nati "-oo" nati_scope
+R6009 nati "-oo" nati_scope
+R6031 nati "-oo" nati_scope
+R6009 nati "-oo" nati_scope
+R6031 nati "-oo" nati_scope
+R6051 constructive_lib nat_wo
+R6071 nati Nat
+R6051 constructive_lib nat_wo
+R6071 nati Nat
+R6111 nati Nat
+R6111 nati Nat
+Flib
